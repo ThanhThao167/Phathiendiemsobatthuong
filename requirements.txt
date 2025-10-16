@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly    # Thư viện trực quan hóa mạnh mẽ, tương tác tốt
+openpyxl  # Để xử lý file Excel
+scipy     # Chứa các hàm thống kê cần thiết
