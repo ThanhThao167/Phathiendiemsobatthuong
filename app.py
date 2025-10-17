@@ -40,7 +40,7 @@ with st.sidebar:
     )
 
 # --- 3. Giao diện chính (Main Interface) ---
-st.title("🔎 Ứng dụng Phát hiện Điểm bất thường của Học sinh")
+st.title("🔎 Ứng dụng hỗ trợ phân tích và phát hiện điểm số bất thường của học sinh")
 st.write("""
     Công cụ này giúp giáo viên và nhà trường nhanh chóng xác định các trường hợp
     học sinh có điểm số bất thường, hỗ trợ việc can thiệp và theo dõi kịp thời.
